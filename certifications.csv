@@ -1,0 +1,63 @@
+employee_id,certification_name,issuer,expiry_date
+101,Oracle Cloud Infrastructure Foundations,Oracle,2027-08-03
+101,AWS Certified Cloud Practitioner,AWS,2027-12-25
+102,AWS Certified Cloud Practitioner,AWS,2027-11-17
+103,PSPO I,Scrum.org,2027-10-29
+103,Product-Led Growth Certification,Industry,2028-05-16
+104,Human-Centered Design,Industry,2028-03-02
+104,Google UX Design Certificate,Industry,2027-09-24
+106,PHR,Industry,2028-03-29
+106,SHRM-CP,Industry,2027-11-01
+108,CompTIA Security+,CompTIA,2026-06-29
+109,Lean Six Sigma Green Belt,Industry,2027-11-04
+111,Oracle Cloud Infrastructure Foundations,Oracle,2028-05-16
+112,AWS Certified Cloud Practitioner,AWS,2026-07-17
+113,PSPO I,Scrum.org,2026-10-16
+114,Google UX Design Certificate,Industry,2026-06-28
+114,Human-Centered Design,Industry,2026-06-21
+115,HDI Support Center Analyst,Industry,2026-11-26
+115,ITIL Foundation,Industry,2028-03-16
+116,PHR,Industry,2027-04-23
+117,FMVA,Industry,2026-08-18
+118,CompTIA Security+,CompTIA,2026-05-04
+119,Lean Six Sigma Green Belt,Industry,2027-07-15
+121,AWS Certified Cloud Practitioner,AWS,2026-06-09
+121,Oracle Cloud Infrastructure Foundations,Oracle,2027-08-25
+122,Oracle Cloud Infrastructure Foundations,Oracle,2026-08-27
+122,AWS Certified Cloud Practitioner,AWS,2027-01-23
+124,Human-Centered Design,Industry,2028-03-13
+124,Google UX Design Certificate,Industry,2027-06-23
+125,HDI Support Center Analyst,Industry,2027-07-27
+127,CPA Candidate,Industry,2027-11-22
+127,FMVA,Industry,2027-01-11
+128,Microsoft Azure Administrator,Microsoft,2028-05-31
+128,CompTIA Security+,CompTIA,2027-08-30
+129,Lean Six Sigma Green Belt,Industry,2027-04-04
+131,Scrum Master,Scrum.org,2027-06-08
+131,AWS Certified Cloud Practitioner,AWS,2027-12-28
+132,Oracle Cloud Infrastructure Foundations,Oracle,2027-01-14
+134,Google UX Design Certificate,Industry,2027-03-15
+134,Human-Centered Design,Industry,2026-08-19
+135,HDI Support Center Analyst,Industry,2028-03-08
+136,SHRM-CP,Industry,2027-07-21
+137,CPA Candidate,Industry,2027-02-11
+138,Microsoft Azure Administrator,Microsoft,2027-08-28
+140,Salesforce Certified Associate,Industry,2026-05-13
+141,Oracle Cloud Infrastructure Foundations,Oracle,2027-01-10
+141,AWS Certified Cloud Practitioner,AWS,2026-08-30
+143,PSPO I,Scrum.org,2026-08-26
+143,Product-Led Growth Certification,Industry,2027-11-09
+144,Human-Centered Design,Industry,2027-07-23
+146,PHR,Industry,2027-08-09
+147,FMVA,Industry,2027-02-19
+149,Lean Six Sigma Green Belt,Industry,2027-04-14
+150,MEDDICC Certification,Industry,2027-03-26
+150,Salesforce Certified Associate,Industry,2026-11-10
+152,AWS Certified Cloud Practitioner,AWS,2028-03-21
+152,Oracle Cloud Infrastructure Foundations,Oracle,2027-10-29
+155,ITIL Foundation,Industry,2027-05-29
+156,PHR,Industry,2027-02-18
+156,SHRM-CP,Industry,2026-12-22
+159,Lean Six Sigma Green Belt,Industry,2028-01-15
+160,MEDDICC Certification,Industry,2027-06-29
+160,Salesforce Certified Associate,Industry,2028-03-01

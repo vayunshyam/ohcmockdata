@@ -1,0 +1,61 @@
+employee_id,display_name,department,role,location,capacity,employment_type,manager_id
+101,Jordan Diaz,Engineering,Software Engineer,Austin,90,Full-time,300000100000001
+102,Taylor Garcia,Engineering,Data Engineer,Seattle,75,Full-time,300000100000003
+103,Morgan Johnson,Product,Product Manager,San Francisco,75,Full-time,300000100000006
+104,Casey Mitchell,Design,Product Designer,Seattle,70,Full-time,300000100000008
+105,Riley Patel,Customer Support,Support Engineer,Dallas,80,Full-time,300000100000008
+106,Cameron Sullivan,HR,HR Generalist,London,85,Full-time,300000100000002
+107,Quinn Vasquez,Finance,Financial Analyst,New York,95,Full-time,300000100000006
+108,Parker Young,IT,Systems Administrator,Chicago,95,Full-time,300000100000005
+109,Reese Cole,Operations,Operations Analyst,Phoenix,70,Contractor,300000100000002
+110,Jamie Adams,Sales,Account Executive,Atlanta,95,Full-time,300000100000004
+111,Drew Diaz,Engineering,Software Engineer,Austin,60,Full-time,300000100000002
+112,Alex Garcia,Engineering,Data Engineer,Seattle,60,Full-time,300000100000002
+113,Robin Johnson,Product,Product Manager,San Francisco,80,Contractor,300000100000002
+114,Skyler Mitchell,Design,Product Designer,Seattle,80,Full-time,300000100000007
+115,Sydney Patel,Customer Support,Support Engineer,Dallas,85,Full-time,300000100000009
+116,Rowan Sullivan,HR,HR Generalist,London,90,Full-time,300000100000004
+117,Hayden Vasquez,Finance,Financial Analyst,New York,60,Full-time,300000100000006
+118,Emerson Young,IT,Systems Administrator,Chicago,90,Contractor,300000100000003
+119,Kendall Cole,Operations,Operations Analyst,Phoenix,75,Full-time,300000100000005
+120,Blake Adams,Sales,Account Executive,Atlanta,70,Full-time,300000100000005
+121,Mason Diaz,Engineering,Software Engineer,Austin,95,Full-time,300000100000007
+122,Logan Garcia,Engineering,Data Engineer,Seattle,70,Full-time,300000100000008
+123,Harper Johnson,Product,Product Manager,San Francisco,70,Contractor,300000100000005
+124,Sawyer Mitchell,Design,Product Designer,Seattle,75,Full-time,300000100000007
+125,Kai Patel,Customer Support,Support Engineer,Dallas,75,Full-time,300000100000005
+126,Finley Sullivan,HR,HR Generalist,London,90,Full-time,300000100000009
+127,Noah Vasquez,Finance,Financial Analyst,New York,60,Full-time,300000100000008
+128,Luca Young,IT,Systems Administrator,Chicago,95,Full-time,300000100000008
+129,Eden Cole,Operations,Operations Analyst,Phoenix,80,Full-time,300000100000004
+130,Sage Adams,Sales,Account Executive,Atlanta,85,Full-time,300000100000007
+131,Peyton Diaz,Engineering,Software Engineer,Austin,75,Full-time,300000100000007
+132,Dakota Garcia,Engineering,Data Engineer,Seattle,85,Full-time,300000100000001
+133,Shawn Johnson,Product,Product Manager,San Francisco,95,Full-time,300000100000008
+134,Brianna Mitchell,Design,Product Designer,Seattle,70,Full-time,300000100000003
+135,Amira Patel,Customer Support,Support Engineer,Dallas,85,Full-time,300000100000005
+136,Diego Sullivan,HR,HR Generalist,London,75,Full-time,300000100000009
+137,Nina Vasquez,Finance,Financial Analyst,New York,95,Full-time,300000100000005
+138,Priya Young,IT,Systems Administrator,Chicago,85,Full-time,300000100000005
+139,Owen Cole,Operations,Operations Analyst,Phoenix,85,Contractor,300000100000006
+140,Avery Adams,Sales,Account Executive,Atlanta,90,Full-time,300000100000005
+141,Jordan Diaz,Engineering,Software Engineer,Austin,85,Full-time,300000100000008
+142,Taylor Garcia,Engineering,Data Engineer,Seattle,85,Full-time,300000100000004
+143,Morgan Johnson,Product,Product Manager,San Francisco,70,Full-time,300000100000007
+144,Casey Mitchell,Design,Product Designer,Seattle,70,Full-time,300000100000003
+145,Riley Patel,Customer Support,Support Engineer,Dallas,60,Contractor,300000100000001
+146,Cameron Sullivan,HR,HR Generalist,London,95,Full-time,300000100000008
+147,Quinn Vasquez,Finance,Financial Analyst,New York,60,Full-time,300000100000005
+148,Parker Young,IT,Systems Administrator,Chicago,80,Full-time,300000100000008
+149,Reese Cole,Operations,Operations Analyst,Phoenix,80,Full-time,300000100000003
+150,Jamie Adams,Sales,Account Executive,Atlanta,95,Contractor,300000100000005
+151,Drew Diaz,Engineering,Software Engineer,Austin,90,Full-time,300000100000007
+152,Alex Garcia,Engineering,Data Engineer,Seattle,80,Full-time,300000100000003
+153,Robin Johnson,Product,Product Manager,San Francisco,80,Full-time,300000100000008
+154,Skyler Mitchell,Design,Product Designer,Seattle,75,Full-time,300000100000006
+155,Sydney Patel,Customer Support,Support Engineer,Dallas,80,Full-time,300000100000005
+156,Rowan Sullivan,HR,HR Generalist,London,95,Full-time,300000100000002
+157,Hayden Vasquez,Finance,Financial Analyst,New York,85,Full-time,300000100000004
+158,Emerson Young,IT,Systems Administrator,Chicago,70,Full-time,300000100000009
+159,Kendall Cole,Operations,Operations Analyst,Phoenix,95,Full-time,300000100000007
+160,Blake Adams,Sales,Account Executive,Atlanta,70,Full-time,300000100000002

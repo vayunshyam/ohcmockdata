@@ -1,0 +1,243 @@
+employee_id,skill_name,proficiency,skill_type
+101,APIs,Advanced,Achieved
+101,Java,Developing,Achieved
+101,Automation,Developing,Developing
+101,System Design,Advanced,Developing
+101,Python,Developing,Achieved
+102,Automation,Expert,Developing
+102,SQL,Developing,Developing
+102,CI/CD,Expert,Achieved
+102,Java,Expert,Achieved
+102,APIs,Advanced,Achieved
+103,Roadmapping,Advanced,Achieved
+103,Product Strategy,Expert,Achieved
+103,A/B Testing,Intermediate,Achieved
+103,Analytics,Expert,Developing
+103,Stakeholder Management,Intermediate,Achieved
+104,Figma,Intermediate,Achieved
+104,Prototyping,Developing,Achieved
+104,UX Research,Expert,Achieved
+104,Accessibility,Developing,Achieved
+105,Knowledge Base,Advanced,Achieved
+105,Troubleshooting,Advanced,Achieved
+105,SQL,Advanced,Developing
+106,Workforce Planning,Advanced,Achieved
+106,Employee Relations,Developing,Developing
+106,Benefits Administration,Expert,Achieved
+107,Excel,Intermediate,Achieved
+107,Reporting,Expert,Developing
+107,Forecasting,Advanced,Developing
+108,Scripting,Advanced,Achieved
+108,Cloud Support,Advanced,Achieved
+108,Networking,Developing,Developing
+108,Systems Administration,Developing,Achieved
+108,Identity Management,Expert,Achieved
+109,Workflow Design,Advanced,Developing
+109,Process Improvement,Intermediate,Achieved
+109,Excel,Intermediate,Achieved
+110,Pipeline Management,Expert,Achieved
+110,Forecasting,Intermediate,Developing
+110,Presentation Skills,Developing,Achieved
+110,Negotiation,Advanced,Developing
+110,CRM,Advanced,Developing
+111,Cloud Architecture,Advanced,Achieved
+111,SQL,Expert,Achieved
+111,System Design,Intermediate,Achieved
+111,CI/CD,Intermediate,Developing
+111,Java,Advanced,Developing
+112,Automation,Expert,Developing
+112,System Design,Developing,Achieved
+112,SQL,Developing,Developing
+113,User Research,Expert,Achieved
+113,A/B Testing,Expert,Developing
+113,Product Strategy,Intermediate,Developing
+114,Design Systems,Expert,Achieved
+114,Figma,Advanced,Achieved
+114,Accessibility,Developing,Developing
+114,Prototyping,Expert,Achieved
+115,Troubleshooting,Advanced,Achieved
+115,Customer Support,Intermediate,Developing
+115,SQL,Expert,Developing
+115,Escalation Management,Advanced,Achieved
+115,Knowledge Base,Intermediate,Achieved
+116,HRIS,Intermediate,Achieved
+116,Employee Relations,Developing,Achieved
+116,Recruiting,Expert,Achieved
+116,Benefits Administration,Developing,Developing
+117,Forecasting,Expert,Achieved
+117,Reporting,Advanced,Achieved
+117,Excel,Advanced,Achieved
+117,Budgeting,Developing,Achieved
+118,Security,Intermediate,Achieved
+118,Scripting,Expert,Achieved
+118,Networking,Intermediate,Achieved
+118,Cloud Support,Developing,Achieved
+119,Workflow Design,Developing,Developing
+119,Project Coordination,Expert,Achieved
+119,Excel,Advanced,Achieved
+120,CRM,Advanced,Developing
+120,Pipeline Management,Advanced,Achieved
+120,Presentation Skills,Expert,Achieved
+120,Forecasting,Expert,Developing
+121,SQL,Advanced,Achieved
+121,System Design,Advanced,Achieved
+121,CI/CD,Intermediate,Developing
+122,APIs,Developing,Developing
+122,Automation,Intermediate,Achieved
+122,Java,Expert,Developing
+122,System Design,Advanced,Developing
+123,Product Strategy,Intermediate,Achieved
+123,A/B Testing,Intermediate,Achieved
+123,Stakeholder Management,Developing,Achieved
+124,Prototyping,Intermediate,Developing
+124,Accessibility,Advanced,Developing
+124,UX Research,Intermediate,Achieved
+125,Troubleshooting,Advanced,Achieved
+125,Zendesk,Advanced,Developing
+125,Escalation Management,Advanced,Developing
+125,Knowledge Base,Intermediate,Achieved
+125,SQL,Advanced,Achieved
+126,Excel,Advanced,Achieved
+126,Employee Relations,Intermediate,Achieved
+126,Workforce Planning,Advanced,Achieved
+126,Benefits Administration,Intermediate,Developing
+127,Financial Modeling,Advanced,Developing
+127,Reporting,Intermediate,Developing
+127,Budgeting,Advanced,Achieved
+127,Excel,Expert,Achieved
+127,SQL,Advanced,Developing
+128,Identity Management,Expert,Achieved
+128,Scripting,Advanced,Achieved
+128,Security,Advanced,Achieved
+129,Excel,Intermediate,Achieved
+129,Workflow Design,Intermediate,Developing
+129,Project Coordination,Expert,Developing
+129,Process Improvement,Developing,Developing
+129,Reporting,Developing,Developing
+130,Negotiation,Expert,Achieved
+130,Forecasting,Advanced,Achieved
+130,Presentation Skills,Advanced,Developing
+131,Cloud Architecture,Intermediate,Developing
+131,CI/CD,Intermediate,Achieved
+131,Java,Intermediate,Developing
+131,SQL,Intermediate,Developing
+132,Automation,Developing,Developing
+132,Java,Intermediate,Achieved
+132,Cloud Architecture,Intermediate,Achieved
+133,User Research,Expert,Developing
+133,A/B Testing,Advanced,Achieved
+133,Product Strategy,Advanced,Achieved
+134,UX Research,Advanced,Developing
+134,Design Systems,Advanced,Achieved
+134,UI Design,Developing,Achieved
+135,Zendesk,Developing,Achieved
+135,Escalation Management,Advanced,Developing
+135,SQL,Advanced,Achieved
+135,Knowledge Base,Advanced,Developing
+135,Customer Support,Expert,Achieved
+136,Recruiting,Intermediate,Developing
+136,Workforce Planning,Expert,Achieved
+136,HRIS,Developing,Developing
+136,Employee Relations,Advanced,Achieved
+136,Benefits Administration,Advanced,Achieved
+137,Forecasting,Intermediate,Achieved
+137,Financial Modeling,Advanced,Developing
+137,Excel,Developing,Achieved
+137,SQL,Developing,Developing
+138,Systems Administration,Advanced,Achieved
+138,Scripting,Advanced,Achieved
+138,Networking,Advanced,Achieved
+138,Cloud Support,Advanced,Developing
+138,Security,Intermediate,Achieved
+139,Project Coordination,Intermediate,Developing
+139,Excel,Developing,Developing
+139,Reporting,Developing,Achieved
+139,Workflow Design,Advanced,Developing
+140,Presentation Skills,Intermediate,Developing
+140,Pipeline Management,Developing,Achieved
+140,CRM,Intermediate,Achieved
+140,Forecasting,Advanced,Achieved
+140,Negotiation,Developing,Achieved
+141,CI/CD,Intermediate,Achieved
+141,SQL,Developing,Developing
+141,Java,Intermediate,Achieved
+141,Python,Advanced,Developing
+142,Automation,Intermediate,Achieved
+142,Cloud Architecture,Advanced,Achieved
+142,CI/CD,Expert,Developing
+142,SQL,Intermediate,Achieved
+142,System Design,Developing,Developing
+143,User Research,Developing,Developing
+143,A/B Testing,Intermediate,Achieved
+143,Stakeholder Management,Developing,Developing
+143,Roadmapping,Intermediate,Achieved
+144,UX Research,Advanced,Achieved
+144,UI Design,Expert,Achieved
+144,Prototyping,Intermediate,Achieved
+144,Design Systems,Intermediate,Achieved
+145,Zendesk,Developing,Achieved
+145,Knowledge Base,Expert,Achieved
+145,SQL,Expert,Achieved
+145,Customer Support,Advanced,Developing
+146,Excel,Advanced,Achieved
+146,HRIS,Developing,Developing
+146,Recruiting,Intermediate,Achieved
+146,Workforce Planning,Expert,Developing
+146,Employee Relations,Advanced,Developing
+147,Financial Modeling,Expert,Achieved
+147,Reporting,Developing,Achieved
+147,SQL,Advanced,Achieved
+147,Excel,Intermediate,Developing
+148,Systems Administration,Advanced,Developing
+148,Scripting,Developing,Achieved
+148,Networking,Intermediate,Achieved
+149,Excel,Expert,Developing
+149,Project Coordination,Advanced,Developing
+149,Reporting,Expert,Achieved
+149,Workflow Design,Expert,Achieved
+150,Pipeline Management,Advanced,Achieved
+150,Presentation Skills,Expert,Achieved
+150,Forecasting,Intermediate,Developing
+151,Automation,Advanced,Achieved
+151,Python,Expert,Developing
+151,SQL,Advanced,Achieved
+152,System Design,Advanced,Achieved
+152,Automation,Advanced,Achieved
+152,Python,Advanced,Developing
+152,Cloud Architecture,Intermediate,Achieved
+152,CI/CD,Intermediate,Achieved
+153,Product Strategy,Expert,Achieved
+153,A/B Testing,Intermediate,Developing
+153,User Research,Advanced,Achieved
+153,Stakeholder Management,Intermediate,Achieved
+153,Roadmapping,Expert,Developing
+154,UX Research,Advanced,Developing
+154,Accessibility,Developing,Achieved
+154,Design Systems,Intermediate,Achieved
+154,Figma,Intermediate,Achieved
+155,Knowledge Base,Advanced,Developing
+155,Customer Support,Intermediate,Developing
+155,Escalation Management,Advanced,Achieved
+155,Troubleshooting,Intermediate,Developing
+156,HRIS,Advanced,Achieved
+156,Benefits Administration,Intermediate,Achieved
+156,Recruiting,Advanced,Developing
+157,Forecasting,Advanced,Achieved
+157,Budgeting,Advanced,Developing
+157,Excel,Intermediate,Achieved
+157,Reporting,Advanced,Developing
+157,Financial Modeling,Intermediate,Achieved
+158,Scripting,Intermediate,Achieved
+158,Cloud Support,Intermediate,Achieved
+158,Security,Advanced,Developing
+158,Systems Administration,Developing,Achieved
+159,Excel,Advanced,Achieved
+159,Process Improvement,Advanced,Achieved
+159,Reporting,Advanced,Achieved
+159,Workflow Design,Expert,Developing
+159,Project Coordination,Intermediate,Developing
+160,Forecasting,Developing,Achieved
+160,Pipeline Management,Intermediate,Achieved
+160,Presentation Skills,Developing,Achieved
+160,Negotiation,Developing,Achieved
+160,CRM,Advanced,Achieved
